@@ -7,6 +7,7 @@
 .dice {
   text-align: center;
   display: inline-block;
+  margin-bottom:20px;
 
 }
 
@@ -37,5 +38,18 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+}
 
+a{
+  background:rgb(226, 226, 235);
+  color:black;
+  padding:5px;
+  border-radius:6px;
+  text-decoration: none;
+  transition:  all .3s ease-in-out
+}
+
+a:hover{
+  background:rgb(238, 61, 61);
+  color:white;
 }
