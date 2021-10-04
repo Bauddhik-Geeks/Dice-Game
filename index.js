@@ -1,7 +1,8 @@
 
  const name1 = prompt("Enter the name of the player 1")
  const name2 = prompt("Enter the name of the player 2")
-
+document.getElementById("p1").innerHTML=name1;
+document.getElementById("p2").innerHTML=name2;
 
  document.getElementById("btn").onclick = function() {
    
