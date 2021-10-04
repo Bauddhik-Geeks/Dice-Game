@@ -1,6 +1,6 @@
 # Dice-Game
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## Contributors ✨
 
@@ -12,6 +12,7 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/fenil3357"><img src="https://avatars.githubusercontent.com/u/78013068?v=4?s=100" width="100px;" alt=""/><br /><sub><b>fenil3357</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Dice-Game/commits?author=fenil3357" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Neha9849"><img src="https://avatars.githubusercontent.com/u/85057583?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Neha Deekonda</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Dice-Game/commits?author=Neha9849" title="Code">💻</a></td>
   </tr>
 </table>
 
