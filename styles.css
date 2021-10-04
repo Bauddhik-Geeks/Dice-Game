@@ -53,3 +53,42 @@ a:hover{
   background:rgb(238, 61, 61);
   color:white;
 }
+
+#btn{
+  height: 50px;
+  width: 100px;
+  display: block;
+  margin: auto;
+  border: 3px solid rgb(173, 169, 169);
+  border-radius: 10px;
+  margin-bottom: 10px;
+  background-color: black;
+  color: white;
+}
+
+#btn:hover{
+  cursor: pointer;
+  background-color: rgb(39, 36, 36);
+  width: 125px;
+  height: 60px;
+  -webkit-transition: all 500ms ease;
+}
+
+#Refresh{
+  height: 50px;
+  width: 100px;
+  display: block;
+  margin: auto;
+  border: 3px solid rgb(160, 154, 154);
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+}
+
+#Refresh:hover{
+  cursor: pointer;
+  background-color: rgb(39, 36, 36);
+  width: 125px;
+  height: 60px;
+  -webkit-transition: all 500ms ease;
+}
