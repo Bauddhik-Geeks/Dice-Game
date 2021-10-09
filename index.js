@@ -24,11 +24,11 @@ var randomImgsource2 = "images/" + randomDiceImage2;  //imag//dice1 - img/dice-6
 
 if(randomNumber1>randomNumber2)
 {
-  document.querySelector("h1").innerHTML = `🚩 ${name1} Wins!`;
+  document.querySelector("h1").innerHTML = `👇 ${name1} Wins!`;
 }
 else if(randomNumber2>randomNumber1)
 {
-  document.querySelector("h1").innerHTML=`${name2} Wins! 🚩`;
+  document.querySelector("h1").innerHTML=`${name2} Wins! 👇`;
 }
 else
 {
