@@ -23,15 +23,7 @@
         "code"
       ]
     }
-    {
-      "login": "",
-      "name": "Rajkumar Khistariya",
-      "avatar_url": "https://avatars.githubusercontent.com/u/85057583?v=4",
-      "profile": "https://github.com/Neha9849",
-      "contributions": [
-        "code"
-      ]
-    }
+  
   ],
   "contributorsPerLine": 7,
   "projectName": "Dice-Game",
