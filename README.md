@@ -1,4 +1,5 @@
 # Dice-Game
+![dice](https://user-images.githubusercontent.com/71749153/137765121-6be7f7a8-aabf-48bd-b01d-d7ed02150d11.gif)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
