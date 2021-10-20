@@ -17,6 +17,9 @@ Thanks goes to these wonderful people:
     <td align="center"><a href="https://github.com/Ambareen15"><img src="https://avatars.githubusercontent.com/u/70109496?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ambareen Khan</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Dice-Game/commits?author=Ambareen15" title="Code">💻</a></td>
   </tr>
 </table>
+ <td align="center"><a href="http://dhruvabhattacharya.github.io"><img src="https://avatars.githubusercontent.com/u/71749153?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Dhruva Bhattacharya </b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Dice-Game/commits?author=dhruvaop" title="Code">💻</a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
